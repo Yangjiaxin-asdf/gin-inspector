@@ -10,7 +10,7 @@ Gin middleware for investigating http request.
 
 
 ```sh
-$ go get github.com/fatihkahveci/gin-inspector
+$ go get github.com/Yangjiaxin-asdf/gin-inspector
 ```
 
 ### JSON Response
@@ -19,7 +19,7 @@ $ go get github.com/fatihkahveci/gin-inspector
 package main
 
 import (
-	"github.com/fatihkahveci/gin-inspector"
+	"github.com/Yangjiaxin-asdf/gin-inspector"
 	"github.com/gin-gonic/gin"
 )
 
@@ -48,7 +48,7 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/fatihkahveci/gin-inspector"
+	"github.com/Yangjiaxin-asdf/gin-inspector"
 	"github.com/gin-gonic/gin"
 )
 
